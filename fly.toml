@@ -2,7 +2,7 @@ app = "zeroclaw"
 primary_region = "ams"
 
 [build]
-  image = "ghcr.io/zeroclaw-labs/zeroclaw:latest"
+  image = "ghcr.io/zeroclaw-labs/zeroclaw:debian"
 
 [env]
   PROVIDER                   = "gemini"
