@@ -5,12 +5,12 @@ primary_region = "ams"
   image = "ghcr.io/zeroclaw-labs/zeroclaw:latest"
 
 [env]
-  PROVIDER                  = "openrouter"
+  PROVIDER                  = "gemini"
   ZEROCLAW_GATEWAY_PORT     = "42617"
   ZEROCLAW_ALLOW_PUBLIC_BIND = "true"
 
 # API_KEY must be set as a Fly secret:
-#   fly secrets set API_KEY="sk-..."
+#   fly secrets set API_KEY="AIza..."
 
 [[mounts]]
   source      = "zeroclaw_data"
