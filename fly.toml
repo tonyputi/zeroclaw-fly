@@ -1,17 +1,16 @@
 app = "zeroclaw"
 primary_region = "ams"
 
-[build]
-  image = "ghcr.io/zeroclaw-labs/zeroclaw:debian"
+[processes]
+  app = "daemon"
 
 [env]
+  HOME                       = "/zeroclaw-data"
+  ZEROCLAW_WORKSPACE         = "/zeroclaw-data/workspace"
   PROVIDER                   = "gemini"
   ZEROCLAW_GATEWAY_PORT      = "42617"
   ZEROCLAW_GATEWAY_HOST      = "0.0.0.0"
   ZEROCLAW_ALLOW_PUBLIC_BIND = "true"
-
-# API_KEY must be set as a Fly secret:
-#   fly secrets set API_KEY="AIza..."
 
 [[mounts]]
   source      = "zeroclaw_data"
@@ -23,11 +22,7 @@ primary_region = "ams"
   auto_stop_machines   = false
   auto_start_machines  = true
   min_machines_running = 1
-
-  [http_service.concurrency]
-    type       = "requests"
-    soft_limit = 50
-    hard_limit = 100
+  processes            = ["app"]
 
 [[vm]]
   size   = "shared-cpu-1x"
