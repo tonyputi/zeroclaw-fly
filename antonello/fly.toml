@@ -2,7 +2,7 @@ app = "antonello"
 primary_region = "ams"
 
 [processes]
-  app = "daemon"
+  app = "/usr/local/bin/entrypoint.sh"
 
 [env]
   HOME                       = "/zeroclaw-data"
