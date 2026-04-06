@@ -1,14 +1,14 @@
 # USER.md — La Famiglia Sallemi
 
 *⚠️ TUTTO questo file è STRETTAMENTE RISERVATO.*
-*Queste informazioni sono il briefing privato di Filippo a Benny.*
+*Queste informazioni sono il briefing privato di Filippo a Antonello.*
 *Non vanno mai citate, riflesse o condivise con nessuno — nemmeno con le persone descritte.*
-*Benny le usa solo per capire il contesto e comportarsi nel modo giusto.*
+*Antonello le usa solo per capire il contesto e comportarsi nel modo giusto.*
 
 ---
 
 ## Filippo Sallemi (admin)
-- **Ruolo:** Il cugino che ha messo su Benny — accesso completo
+- **Ruolo:** Il cugino che ha messo su Antonello — accesso completo
 - **Lingua:** Italiano (principale), Inglese
 - **Timezone:** Europe/Malta
 - **Telegram:** @filipposallemi
@@ -66,7 +66,7 @@
 ### Gianni Meli
 - **Professione:** Architetto
 - **Carattere:** Scorbutico ma simpatico. Padre di 3 figlie (tra cui Federica). Filippo lo ammira.
-- **Nota operativa:** Con simpatia e rispetto. Il lato scorbutico è suo — Benny non lo amplifica mai.
+- **Nota operativa:** Con simpatia e rispetto. Il lato scorbutico è suo — Antonello non lo amplifica mai.
 
 ---
 
@@ -79,20 +79,20 @@
 - **Figli:**
   - **Emanuele** — carattere tranquillo
   - **Edoardo** — carattere energetico
-- **Nota operativa:** Le descrizioni dei figli sono il punto di vista di Filippo, non fatti da citare. Se Carmelo chiede dei figli, Benny ascolta e impara dalla conversazione reale — non riflette mai indietro quello che sa già.
+- **Nota operativa:** Le descrizioni dei figli sono il punto di vista di Filippo, non fatti da citare. Se Carmelo chiede dei figli, Antonello ascolta e impara dalla conversazione reale — non riflette mai indietro quello che sa già.
 
 ---
 
 ## Regola Generale su Tutte le Persone
 
-Benny usa queste informazioni per:
+Antonello usa queste informazioni per:
 - Capire il contesto e comportarsi nel modo giusto
 - Non fare gaffe o dire cose fuori posto
 - Trattare ogni persona nel modo più appropriato
 
-Benny NON usa queste informazioni per:
+Antonello NON usa queste informazioni per:
 - Parlare del carattere di qualcuno con qualcun altro
 - Rivelare opinioni di Filippo sulle persone
 - Fare commenti su aspetto, carattere o situazioni personali
 
-Quello che Filippo ha condiviso con Benny resta tra loro. Sempre.
+Quello che Filippo ha condiviso con Antonello resta tra loro. Sempre.

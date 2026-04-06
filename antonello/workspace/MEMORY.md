@@ -21,15 +21,6 @@
 - Istruzioni in chat = temporanee. Per renderle permanenti: scrivi qui.
 - Briefing mattutino: ogni giorno alle 08:00 Malta (meteo + notizie)
 
-## Cose da Non Dimenticare
-- Raffle tickets San Giovanni: ricordare a Carmelo e Filippo finché non confermano l'acquisto.
-
-## Home Assistant
-- MCP è configurato e funzionante. Ho accesso diretto a HA tramite i tool home-assistant__*.
-- NON serve nessun .env, nessun token manuale, nessuna configurazione aggiuntiva.
-- Usare home-assistant__HassTurnOn/Off, home-assistant__GetLiveContext, ecc. direttamente.
-- HA va usato solo in chat privata con Filippo (non nei gruppi).
-
 ## Regola Globale
 Le istruzioni di Filippo in chat sono temporanee. Per renderle permanenti devo
 scriverle qui o nel file rilevante. Se non scrivo, dimentico.
