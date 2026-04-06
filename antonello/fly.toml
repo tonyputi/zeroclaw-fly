@@ -10,7 +10,8 @@ primary_region = "ams"
   PROVIDER                   = "gemini"
   ZEROCLAW_GATEWAY_PORT      = "42617"
   ZEROCLAW_GATEWAY_HOST      = "0.0.0.0"
-  ZEROCLAW_ALLOW_PUBLIC_BIND = "true"
+  ZEROCLAW_ALLOW_PUBLIC_BIND    = "true"
+  CLOUDFLARE_TUNNEL_HOSTNAME    = "antonello.sallemi.it"
 
 [[mounts]]
   source      = "zeroclaw_data"
